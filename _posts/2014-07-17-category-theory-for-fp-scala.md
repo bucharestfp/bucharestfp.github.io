@@ -10,7 +10,7 @@ edition: "#002"
   <h1><span class="edition-number">#003</span>: Types in Haskell; QuickCheck</h1>
   <p>This meetup took place at the <strong>Thales Systems Romania</strong>,
     <strong>Thursday, 17 July 2014</strong> at <strong>19:00</strong>.
-    Find out when is our <a href="/next.html">next meetup</a>.</p>
+    Find out when is our <a href="/next">next meetup</a>.</p>
 </div>
 
 <div class="clear-fix"></div>
