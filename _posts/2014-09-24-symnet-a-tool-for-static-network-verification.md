@@ -10,7 +10,7 @@ edition: "#004"
   <h1><span class="edition-number">#004</span>: SYMNET — Static Network Verification</h1>
   <p>This meetup took place at the <strong>Eloquentix</strong> office,
     <strong>Wednesday, 24 September 2014</strong> at <strong>19:00</strong>.
-    Find out when is our <a href="/next">next meetup</a>.</p>
+    Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
 <div class="clear-fix"></div>
