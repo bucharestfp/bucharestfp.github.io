@@ -41,11 +41,11 @@ edition: "#003"
       </div>
     </div>
     <div class="right">
-      <div class="slides">
-        Slides in HTML format can be found <a href="#">here</a>.
-      </div>
       <div class="recording">
         <iframe width="590" height="442" src="//www.youtube.com/embed/tmgjTWTDnss" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="slides">
+        <p>Slides in HTML format can be found <a href="/slides/haskell-types/">here</a>.</p>
       </div>
     </div>
   </div>
