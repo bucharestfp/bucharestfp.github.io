@@ -1,19 +1,37 @@
 <!DOCTYPE html>
+
 <html>
+<head>
+<meta charset="UTF-8">
+<title>{{ site.title }}{% if page.title %} &middot; {{ page.edition }} &middot; {{ page.title }}{% endif %}</title>
+<link href="{{ '/css/main.css' | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+</head>
+<body>
 
-  {% include head.html %}
+<div class="main">
+  <div class="group-info">
+    <h1 class="logo"><a href="/" title="Go to home page.">Bucharest FP</a></h1>
+    <p>A functional programming group for those living and working in Bucharest</p>
+    <p>We gather monthly, watch someone talk about something they're passionate
+    about and then continue the discussion in a pub</p>
+  </div>
 
-    <body>
+  {{ content }}
 
-    {% include header.html %}
+  <div class="clear-fix"></div>
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
-    </div>
+  <div class="footer">
+    You can also find us on:
+    <ul>
+      <li><a href="http://www.meetup.com/bucharestfp/">Meetup</a></li>
+      <li><a href="https://twitter.com/bucharestfp/">Twitter</a></li>
+      <li><a href="https://github.com/bucharestfp/">GitHub</a></li>
+      <li><a href="https://groups.google.com/forum/#!forum/bucharestfp">Google Groups</a></li>
+      <li><a href="https://speakerdeck.com/bucharestfp">Speaker Deck</a></li>
+      <li><a href="https://www.youtube.com/channel/UCCQ-fEN_sFNdHF_ZqZPMw5w">YouTube</a></li>
+    </ul>
+  </div>
+</div>
 
-    {% include footer.html %}
-
-    </body>
+</body>
 </html>
