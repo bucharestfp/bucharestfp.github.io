@@ -85,8 +85,6 @@ edition: "#002"
     <div class="left">
       <div class="biography">
         <h2 class="speaker">Alexandru Nedelcu</h2>
-        <h3>Biography</h3>
-        <p></p>
       </div>
       <div class="abstract">
         <h3>Abstract</h3>
@@ -100,7 +98,7 @@ edition: "#002"
     </div>
     <div class="right">
       <div class="slides">
-        <p>Slides in HTML format can be found <a href="#">here</a>.</p>
+        <p>Slides in HTML format can be found <a href="https://www.bionicspirit.com/presentations/timisoara-1/slides/">here</a>.</p>
       </div>
     </div>
   </div>
