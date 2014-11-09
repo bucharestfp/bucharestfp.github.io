@@ -1,6 +1,6 @@
 title: Bucharest FP
 description: "Bucharest Functional Programming Interest Group"
-baseurl: "http://bucharestfp.ro"
+baseurl:
 url: "http://bucharestfp.ro"
 
 markdown: kramdown
