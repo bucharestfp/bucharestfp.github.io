@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "SYMNET — A Tool for Static Network Verification"
+title: "SYMNET — Static Network Verification"
 date: "2014-09-24 19:00:00"
 past: true
 edition: "#004"
