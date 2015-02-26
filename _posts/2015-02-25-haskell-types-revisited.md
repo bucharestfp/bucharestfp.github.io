@@ -1,32 +1,21 @@
 ---
 layout: default
-title: "To Be Announced"
-next: true
-date: "2015-03-25 19:00:00"
-edition: "#009"
-permalink: /next/
+title: "Haskell Types Revisited"
+date: "2015-02-25 19:00:00"
+past: true
+edition: "#008"
 ---
 
 <div class="description">
-  <!-- <h1>#008: Haskell Types Revisited</h1>
-  <p>This meetup will take place at the <strong>Eloquentix</strong> office,
-    <strong>Wednesday, 25 February 2015</strong> at <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/219718238/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
-    where you will also find exact details about this meetup's location.</p>
-  <p>See you there!</p> -->
-  <h1>To Be Announced</h1>
-  <p>There's no scheduled meetup for the moment, but our tentative date is 25 March 2015.</p>
-  <p>Make sure you've registered an account with <a href="http://www.meetup.com/">Meetup</a>
-    and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
-    primary channel for announcing new meetups.</p>
-  <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
-    or subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
-  <p>See you soon!</p>
+  <h1><span class="edition-number">#008</span>: Haskell Types Revisited</h1>
+  <p>This meetup took place at the <strong>Eloquentix</strong> office,
+    <strong>Wednesday, 25 Februaru 2015</strong> at <strong>19:00</strong>.
+    Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
 <div class="clear-fix"></div>
 
-<!-- <div class="presentation">
+<div class="presentation">
   <h1>Haskell Types Revisited</h1>
   <div class="details">
     <div class="left">
@@ -52,5 +41,13 @@ permalink: /next/
         to verify using it.</p>
       </div>
     </div>
+    <div class="right">
+      <div class="slides">
+        <script async class="speakerdeck-embed" data-id="a3e3432140d74c45b6ad199ef54c32e9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+      </div>
+      <div class="recording">
+        <iframe width="590" height="442" src="https://www.youtube.com/embed/hnbsI9sj-l0" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
-</div> -->
+</div>
