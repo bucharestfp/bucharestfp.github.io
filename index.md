@@ -25,6 +25,12 @@ layout: default
             <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
+        {% elsif post.cancelled %}
+        <li>
+          <span>{{ post.edition }} &middot;
+            <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
+          Beer and Discussions
+        </li>
         {% endif %}
       {% endfor %}
         <li><span>#001 &middot; <time>Jul 20, 2010</time> &middot;</span> Beer and Discussions</li>

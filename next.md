@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Romanian Language Processing with Clojure"
+title: "An Introduction to Machine Learning using R"
 next: true
-date: "2015-05-26 19:00:00"
-edition: "#011"
+date: "2015-06-24 19:00:00"
+edition: "#012"
 permalink: /next/
 ---
 
 <div class="description">
-  <h1>#011: Romanian Language Processing with Clojure</h1>
+  <h1>#012: An Introduction to Machine Learning using R</h1>
   <p>This meetup will take place at the <strong>Eloquentix</strong> office,
-    <strong>Tuesday, 26 May 2015</strong> at <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/222374928/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
+    <strong>Wednesday, 24 June 2015</strong> at <strong>19:00</strong>.
+    <a href="http://www.meetup.com/bucharestfp/events/223196695/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
     where you will also find exact details about this meetup's location.</p>
   <p>See you there!</p>
   <!-- <h1>To Be Announced</h1>
@@ -27,21 +27,35 @@ permalink: /next/
 <div class="clear-fix"></div>
 
 <div class="presentation">
-  <h1>Romanian Language Processing with Clojure</h1>
+  <h1>An Introduction to Machine Learning using R</h1>
   <div class="details">
     <div class="left">
       <div class="biography">
-        <h2 class="speaker">Victor Cleja</h2>
+        <h2 class="speaker">Vlad-Ovidiu Lupu</h2>
         <h3>Biography</h3>
-        <p>Victor is a longtime Perl monkey that recently made the switch to Java
-        cargo cult programming. His main interest is dealing with bad data and bad
-        code.</p>
+        <p>Ovidiu is a software developer at Eloquentix, where he currently works
+        with Scala on an application that involves data analysis and reporting.
+        Besides functional programming, he has a long term interest in the things
+        that fall under the umbrella term "Data Science" (machine learning,
+        statistics, math, distributed computing).</p>
       </div>
       <div class="abstract">
         <h3>Abstract</h3>
-        <p>This session will show how Clojure's seamless interoperability with
-        the JVM and decades of Lisp research in the field of artificial intelligence
-        can fill the void in the Romanian language processing area.</p>
+        <p>This presentation will first provide an overview on some basic machine
+        learning concepts like the bias-variance tradeoff, the curse of dimensionality,
+        overfitting and cross-validation. We will then take a deeper dive into
+        the bias-variance tradeoff and take a look at some machine learning
+        algorithms from both ends of the spectrum, like linear regression and
+        ensemble methods.</p>
+        <p>The presentation will be interactive, meaning that many of the concepts
+        above will be exemplified with code. This is a good opportunity to introduce
+        R, a language that is getting more and more popular with people who are
+        working with data. Because R is not a general purpose programming language,
+        but designed to do data analysis and visualizations, we will not focus on
+        its syntax, but on the concepts themselves, which are language agnostic.
+        R will serve as a tool to illustrate the ideas from the presentation and
+        we will see that many aspects of it are heavily influenced by functional
+        programming.</p>
       </div>
     </div>
   </div>
