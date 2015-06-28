@@ -1,30 +1,19 @@
 ---
 layout: default
-title: "To be Announced"
-next: true
-date: "2015-07-29 19:00:00"
-edition: "#013"
-permalink: /next/
+title: "An Introduction to Machine Learning using R"
+date: "2015-06-24 19:00:00"
+past: true
+edition: "#012"
 ---
 
 <div class="description">
-  <!-- <h1>#012: An Introduction to Machine Learning using R</h1>
-  <p>This meetup will take place at the <strong>Eloquentix</strong> office,
+  <h1><span class="edition-number">#012</span>: An Introduction to Machine Learning using R</h1>
+  <p>This meetup took place at the <strong>Eloquentix</strong> office,
     <strong>Wednesday, 24 June 2015</strong> at <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/223196695/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
-    where you will also find exact details about this meetup's location.</p>
-  <p>See you there!</p> -->
-  <h1>To be Announced</h1>
-  <p>There's no scheduled meetup for the moment, but our tentative date is 29 July 2015.</p>
-  <p>Make sure you've registered an account with <a href="http://www.meetup.com/">Meetup</a>
-    and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
-    primary channel for announcing new meetups.</p>
-  <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
-    or subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
-  <p>See you soon!</p>
+    Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
-<!-- <div class="clear-fix"></div>
+<div class="clear-fix"></div>
 
 <div class="presentation">
   <h1>An Introduction to Machine Learning using R</h1>
@@ -57,7 +46,15 @@ permalink: /next/
         we will see that many aspects of it are heavily influenced by functional
         programming.</p>
       </div>
+      <div class="code">
+        <h3>Code</h3>
+        <p><a href="https://github.com/vladovidiulupu/BFP_MLIntro">https://github.com/vladovidiulupu/BFP_MLIntro</a></p>
+      </div>
+    </div>
+    <div class="right">
+      <div class="slides">
+        <script async class="speakerdeck-embed" data-id="86c2562451ab497990ef2b518bf96b3d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+      </div>
     </div>
   </div>
 </div>
- -->
