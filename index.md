@@ -29,12 +29,12 @@ layout: default
         <li>
           <span>{{ post.edition }} &middot;
             <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
-          Beer and Discussions
+          Free Discussions
         </li>
         {% endif %}
       {% endfor %}
-        <li><span>#001 &middot; <time>Jul 20, 2010</time> &middot;</span> Beer and Discussions</li>
-        <li><span>#000 &middot; <time>Jun 10, 2010</time> &middot;</span> Beer and Discussions</li>
+        <li><span>#001 &middot; <time>Jul 20, 2010</time> &middot;</span> Free Discussions</li>
+        <li><span>#000 &middot; <time>Jun 10, 2010</time> &middot;</span> Free Discussions</li>
     </ol>
   </div>
 </div>
