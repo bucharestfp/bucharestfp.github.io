@@ -19,17 +19,17 @@ layout: default
     <h2>Past</h2>
     <ol>
       {% for post in site.posts %}
-        {% if post.past %}
-        <li>
-          <span>{{ post.edition }} &middot;
-            <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </li>
-        {% elsif post.cancelled %}
+        {% if post.no_presentation %}
         <li>
           <span>{{ post.edition }} &middot;
             <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
           Free Discussions
+        </li>
+        {% elsif post.past %}
+        <li>
+          <span>{{ post.edition }} &middot;
+            <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
         {% endif %}
       {% endfor %}

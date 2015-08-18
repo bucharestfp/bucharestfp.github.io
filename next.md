@@ -2,16 +2,16 @@
 layout: default
 title: "Free Discussions"
 next: true
-date: "2015-07-30 19:00:00"
-edition: "#013"
+date: "2015-08-27 19:00:00"
+edition: "#014"
 permalink: /next/
 ---
 
 <div class="description">
-  <h1>#013: Free Discussions</h1>
-  <p>This meetup will take place <strong>Thursday, 30 July 2015</strong> at
+  <h1>#014: Free Discussions</h1>
+  <p>This meetup will take place <strong>Thursday, 27 August 2015</strong> at
     <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/224111691/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
+    <a href="http://www.meetup.com/bucharestfp/events/224710993/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
     where you will also find exact details about this meetup's location.</p>
     <p>No presentation has been scheduled for this meetup, just free discussions.</p>
   <p>See you there!</p>
