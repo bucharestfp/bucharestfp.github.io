@@ -9,7 +9,7 @@ no_presentation: true
 
 <div class="description">
   <h1><span class="edition-number">#013</span>: Free Discussions</h1>
-  <p>This meetup took place <strong>Wednesday, 29 April 2015</strong> at <strong>19:00</strong>.
+  <p>This meetup took place <strong>Wednesday, 30 July 2015</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
