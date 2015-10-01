@@ -22,12 +22,12 @@ permalink: /next/
     where you will also find exact details about this meetup's location.</p>
   <p>See you there!</p> -->
   <h1>To be Announced</h1>
-  <p>There's no scheduled meetup for the moment, but our tentative date is 21 October 2015.</p>
-  <p>Make sure you've registered an account with <a href="http://www.meetup.com/">Meetup</a>
+  <p>There's no scheduled meetup at the moment, but our tentative date is 21 October 2015.</p>
+  <p>Make sure you've registered an account with <a href="http://www.meetup.com/">meetup.com</a>
     and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
     primary channel for announcing new meetups.</p>
   <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
-    or subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
+    and subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
   <p>See you soon!</p>
 </div>
 
