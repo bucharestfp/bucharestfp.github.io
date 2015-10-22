@@ -9,7 +9,7 @@ edition: "#015"
 <div class="description">
   <h1><span class="edition-number">#015</span>: Erlang — an Engineering Perspective</h1>
   <p>This meetup took place at the <strong>Eloquentix</strong> office,
-    <strong>Wednesday, 24 June 2015</strong> at <strong>19:00</strong>.
+    <strong>Wednesday, 30 September 2015</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 

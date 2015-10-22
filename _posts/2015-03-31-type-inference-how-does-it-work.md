@@ -44,7 +44,7 @@ edition: "#009"
     </div>
     <div class="right">
       <div class="slides">
-      <script async class="speakerdeck-embed" data-id="2aef7c9033284002b931c25778503716" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="2aef7c9033284002b931c25778503716" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
       </div>
       <div class="recording">
         <iframe width="590" height="442" src="https://www.youtube.com/embed/LWbby0s9eDQ" frameborder="0" allowfullscreen></iframe>
