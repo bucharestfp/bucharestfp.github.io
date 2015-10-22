@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Clojure all the way down: Finally a useful LISP"
+title: "To be Announced"
 next: true
-date: "2015-10-21 19:00:00"
-edition: "#016"
+date: "2015-11-18 19:00:00"
+edition: "#017"
 permalink: /next/
 ---
 
@@ -15,23 +15,23 @@ permalink: /next/
     where you will also find exact details about this meetup's location.</p>
     <p>No presentation has been scheduled for this meetup, just free discussions.</p>
   <p>See you there!</p> -->
-  <h1>#016: Clojure all the way down: Finally a useful LISP</h1>
+  <!-- <h1>#016: Clojure all the way down: Finally a useful LISP</h1>
   <p>This meetup will take place at the <strong>Eloquentix</strong> office,
     <strong>Wednesday, 21 October 2015</strong> at <strong>19:00</strong>.
     <a href="http://www.meetup.com/bucharestfp/events/225922911/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
     where you will also find exact details about this meetup's location.</p>
-  <p>See you there!</p>
-  <!-- <h1>To be Announced</h1>
-  <p>There's no scheduled meetup at the moment, but our tentative date is 21 October 2015.</p>
+  <p>See you there!</p> -->
+  <h1>To be Announced</h1>
+  <p>There's no scheduled meetup at the moment, but our tentative date is 18 November 2015.</p>
   <p>Make sure you've registered an account with <a href="http://www.meetup.com/">meetup.com</a>
     and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
     primary channel for announcing new meetups.</p>
   <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
     and subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
-  <p>See you soon!</p> -->
+  <p>See you soon!</p>
 </div>
 
-<div class="clear-fix"></div>
+<!-- <div class="clear-fix"></div>
 
 <div class="presentation">
   <h1>Clojure all the way down: Finally a useful LISP</h1>
@@ -57,4 +57,4 @@ permalink: /next/
     </div>
   </div>
 </div>
-
+ -->
