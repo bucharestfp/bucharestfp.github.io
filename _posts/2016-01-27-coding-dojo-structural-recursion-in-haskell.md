@@ -12,3 +12,15 @@ edition: "#018"
     <strong>Wednesday, 27 January 2015</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
+
+<div class="clear-fix"></div>
+
+<div class="presentation">
+  <h1>Coding Dojo: Structural Recursion in Haskell</h1>
+  <div class="details">
+    <div class="left">
+      <h3>Code</h3>
+      <p><a href="https://github.com/bucharestfp/meetup-018/">https://github.com/bucharestfp/meetup-018/</a></p>
+    </div>
+  </div>
+</div>
