@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Coding Dojo: Structural Recursion in Haskell, part 2"
+title: "Parsing: How Does it Work?"
 next: true
-date: "2016-03-03 19:00:00"
-edition: "#020"
+date: "2016-04-20 19:00:00"
+edition: "#021"
 permalink: /next/
 ---
 
@@ -15,10 +15,10 @@ permalink: /next/
     where you will also find exact details about this meetup's location.</p>
     <p>No presentation has been scheduled for this meetup, just free discussions.</p>
   <p>See you there!</p> -->
-  <h1>#020: Coding Dojo: Structural Recursion in Haskell, part 2</h1>
+  <h1>#021: Parsing: How Does it Work?</h1>
   <p>This meetup will take place at the <strong>Eloquentix</strong> office,
-    <strong>Thursday, 03 March 2015</strong> at <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/229038471/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
+    <strong>Wednesday, 20 April 2015</strong> at <strong>19:00</strong>.
+    <a href="http://www.meetup.com/bucharestfp/events/229930833/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
     where you will also find exact details about this meetup's location.</p>
   <p>See you there!</p>
   <!-- <h1>To be Announced</h1>
@@ -34,11 +34,33 @@ permalink: /next/
 <div class="clear-fix"></div>
 
 <div class="presentation">
-  <h1>Coding Dojo: Structural Recursion in Haskell, part 2</h1>
+  <h1>Parsing: How Does it Work?</h1>
   <div class="details">
     <div class="left">
-      <h3>Code</h3>
-      <p><a href="https://github.com/bucharestfp/meetup-018/">https://github.com/bucharestfp/meetup-018/</a></p>
+      <div class="biography">
+        <h2 class="speaker">Ionuț G. Stan</h2>
+        <h3>Biography</h3>
+        <p>Ionuț is a software developer at Eloquentix, where he works on backend
+        services using Scala. His current interests revolve around functional
+        programming techniques, programming languages and compilers.</p>
+      </div>
+      <div class="abstract">
+        <h3>Abstract</h3>
+
+        <p>Transforming text to some in-memory data structure — parsing, as it's
+        usually called — is perceived as a form of black magic. It looks like a
+        complicated thing to do and parsing an actual programming language even
+        more so. It is actually held in such a high regard that some people seem
+        to mistake parsing for the task of writing a compiler or interpreter in
+        its entirety, which is certainly not the case.</p>
+
+        <p>While not always a trivial task, parsing is probably easier than you
+        think and I'll try to prove it during this presentation. We'll see how a
+        stream of characters is transformed into a stream of tokens, which are
+        then fed to the parser proper that will finally derive an in-memory tree
+        data structure. I will be using Scala as the implementation language and
+        a subset of Standard ML as the language to parse.</p>
+      </div>
     </div>
   </div>
 </div>
