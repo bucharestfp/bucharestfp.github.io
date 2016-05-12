@@ -1,37 +1,19 @@
 ---
 layout: default
-title: "To Be Announced"
-next: true
-date: "2016-06-21 19:00:00"
-edition: "#023"
-permalink: /next/
+title: "The JSON Architecture"
+date: "2016-05-11 19:00:00"
+past: true
+edition: "#022"
 ---
 
 <div class="description">
-  <!-- <h1>#014: Free Discussions</h1>
-  <p>This meetup will take place <strong>Thursday, 27 August 2015</strong> at
-    <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/224710993/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
-    where you will also find exact details about this meetup's location.</p>
-    <p>No presentation has been scheduled for this meetup, just free discussions.</p>
-  <p>See you there!</p> -->
-  <!-- <h1>#022: The JSON Architecture</h1>
-  <p>This meetup will take place at the <strong>Eloquentix</strong> office,
-    <strong>Wednesday, 11 May 2015</strong> at <strong>19:00</strong>.
-    <a href="http://www.meetup.com/bucharestfp/events/230657303/"><abbr title="Répondez, S’il Vous Plaît">RSVP</abbr> on the meetup page</a>,
-    where you will also find exact details about this meetup's location.</p>
-  <p>See you there!</p> -->
-  <h1>To Be Announced</h1>
-  <p>There's no scheduled meetup at the moment, but our tentative date is 21 June 2016.</p>
-  <p>Make sure you've registered an account with <a href="http://www.meetup.com/">meetup.com</a>
-    and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
-    primary channel for announcing new meetups.</p>
-  <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
-    and subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
-  <p>See you soon!</p>
+  <h1><span class="edition-number">#022</span>: The JSON Architecture</h1>
+  <p>This meetup took place at the <strong>Eloquentix</strong> office,
+    <strong>Wednesday, 11 May 2016</strong> at <strong>19:00</strong>.
+    Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
-<!-- <div class="clear-fix"></div>
+<div class="clear-fix"></div>
 
 <div class="presentation">
   <h1>The JSON Architecture</h1>
@@ -79,6 +61,13 @@ permalink: /next/
         from using it in practice.</p>
       </div>
     </div>
+    <div class="right">
+      <div class="slides">
+        <script async class="speakerdeck-embed" data-id="22d030f2c60b4d909ff5bfded3fb006e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+      </div>
+      <div class="recording">
+        <iframe width="590" height="442" src="https://www.youtube.com/embed/l-pH3bJXj5E" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
 </div>
- -->

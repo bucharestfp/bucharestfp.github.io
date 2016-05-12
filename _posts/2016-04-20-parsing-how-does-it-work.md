@@ -7,7 +7,7 @@ edition: "#021"
 ---
 
 <div class="description">
-  <h1><span class="edition-number">#019</span>: Parsing: How Does it Work?</h1>
+  <h1><span class="edition-number">#021</span>: Parsing: How Does it Work?</h1>
   <p>This meetup took place at the <strong>Eloquentix</strong> office,
     <strong>Wednesday, 20 April 2016</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
@@ -50,7 +50,7 @@ edition: "#021"
     </div>
     <div class="right">
       <div class="slides">
-      <script async class="speakerdeck-embed" data-id="e8f16cd22c9847e3b84ff2dc3f4a7a76" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="e8f16cd22c9847e3b84ff2dc3f4a7a76" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
       </div>
       <div class="recording">
         <iframe width="590" height="442" src="https://www.youtube.com/embed/YQp4DKcd79g" frameborder="0" allowfullscreen></iframe>
