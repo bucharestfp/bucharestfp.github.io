@@ -23,7 +23,7 @@ layout: default
         <li>
           <span>{{ post.edition }} &middot;
             <time title="{{ post.date }}">{{ post.date | date: "%b %d, %Y" }}</time> &middot;</span>
-          Free Discussions
+          {{ post.title }}
         </li>
         {% elsif post.past %}
         <li>
