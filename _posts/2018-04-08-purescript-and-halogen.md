@@ -29,7 +29,7 @@ edition: "#028"
       </div>
       <div class="abstract">
         <h3>Abstract</h3>
-        <p>PureScript (http://www.purescript.org/) is a strongly-typed
+        <p><a href="http://www.purescript.org/">PureScript</a> is a strongly-typed
         functional programming language that compiles to JavaScript. This talk
         will give a brief overview of the PureScript syntax and a few key
         features, demo the language tooling and showcase Halogen, one of its
