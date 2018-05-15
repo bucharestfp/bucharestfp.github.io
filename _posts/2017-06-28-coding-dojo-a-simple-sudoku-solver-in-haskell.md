@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Coding Dojo: A Simple Sudoku Solver in Haskell"
-date: "2017-04-19 19:00:00"
+date: "2017-06-28 19:00:00"
 past: true
 edition: "#027"
 ---

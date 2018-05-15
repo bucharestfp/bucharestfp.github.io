@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PureScript & Halogen"
-date: "2018-04-09 19:00:00"
+date: "2018-05-08 19:00:00"
 past: true
 edition: "#028"
 ---
@@ -9,7 +9,7 @@ edition: "#028"
 <div class="description">
   <h1><span class="edition-number">#028</span>: PureScript &amp; Halogen</h1>
   <p>This meetup took place at <strong>Bucharest TechHub</strong>,
-    <strong>Tuesday, 08 April 2017</strong> at <strong>19:00</strong>.
+    <strong>Tuesday, 08 May 2017</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
