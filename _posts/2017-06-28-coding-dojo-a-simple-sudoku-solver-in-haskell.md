@@ -22,5 +22,10 @@ edition: "#027"
       <h3>Code</h3>
       <p><a href="https://github.com/bucharestfp/coding-dojo-sudoku">https://github.com/bucharestfp/coding-dojo-sudoku</a></p>
     </div>
+    <div class="right">
+      <div class="slides">
+      <script async class="speakerdeck-embed" data-id="9c2ea4d5e15b4b0bbe7f0d5662fd8948" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+      </div>
+    </div>
   </div>
 </div>
