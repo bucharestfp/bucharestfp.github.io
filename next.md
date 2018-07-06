@@ -2,8 +2,8 @@
 layout: default
 title: "To Be Announced"
 next: true
-date: "2018-06-08 19:00:00"
-edition: "#029"
+date: "2018-07-31 19:00:00"
+edition: "#031"
 permalink: /next/
 ---
 
@@ -22,12 +22,11 @@ permalink: /next/
     where you will also find exact details about this meetup's location.</p>
   <p>See you there!</p> -->
   <h1>To Be Announced</h1>
-  <p>There's no scheduled meetup at the moment, but our tentative date is 08 June 2018.</p>
+  <p>There's no scheduled meetup at the moment, but our tentative date is 31 July 2018.</p>
   <p>Make sure you've registered an account with <a href="http://www.meetup.com/">meetup.com</a>
     and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
     primary channel for announcing new meetups.</p>
-  <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>
-    and subscribe to our <a href="https://groups.google.com/forum/#!forum/bucharestfp">mailing list</a>.</p>
+  <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>.</p>
   <p>See you soon!</p>
 </div>
 
