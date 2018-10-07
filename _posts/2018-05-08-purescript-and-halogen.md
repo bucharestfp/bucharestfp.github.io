@@ -9,7 +9,7 @@ edition: "#028"
 <div class="description">
   <h1><span class="edition-number">#028</span>: PureScript &amp; Halogen</h1>
   <p>This meetup took place at <strong>Bucharest TechHub</strong>,
-    <strong>Tuesday, 08 May 2017</strong> at <strong>19:00</strong>.
+    <strong>Tuesday, 08 May 2018</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 

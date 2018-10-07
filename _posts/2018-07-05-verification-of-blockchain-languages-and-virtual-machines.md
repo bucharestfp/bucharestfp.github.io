@@ -9,7 +9,7 @@ edition: "#030"
 <div class="description">
   <h1><span class="edition-number">#030</span>: Verification of Blockchain Languages and Virtual Machines</h1>
   <p>This meetup took place at <strong>Bucharest TechHub</strong>,
-    <strong>Thursday, 05 July 2017</strong> at <strong>19:00</strong>.
+    <strong>Thursday, 05 July 2018</strong> at <strong>19:00</strong>.
     Find out when our <a href="/next">next meetup</a> is.</p>
 </div>
 
