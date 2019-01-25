@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "To Be Announced"
+title: "Haskell Book Study Group 01"
 next: true
-date: "2018-10-17 19:00:00"
-edition: "#035"
+date: "2019-02-06 19:00:00"
+edition: "#039"
 permalink: /next/
 ---
 
@@ -15,19 +15,19 @@ permalink: /next/
     where you will also find exact details about this meetup's location.</p>
     <p>No presentation has been scheduled for this meetup, just free discussions.</p>
   <p>See you there!</p> -->
-  <!-- <h1>#027: Coding Dojo: A Simple Sudoku Solver in Haskell</h1>
-  <p>This meetup will take place at <strong>Eloquentix</strong>,
-    <strong>Wednesday, 28 June 2017</strong> at <strong>19:00</strong>.
-    <a href="https://www.meetup.com/bucharestfp/events/240637492/"><abbr title="Répondez, S'il Vous Plaît">RSVP</abbr> on the meetup page</a>,
+  <h1>#039: Haskell Book Study Group 01</h1>
+  <p>This meetup will take place at <strong>TechHub</strong>,
+    <strong>Wednesday, 06 February 2019</strong> at <strong>19:00</strong>.
+    <a href="https://www.meetup.com/bucharestfp/events/258384298/"><abbr title="Répondez, S'il Vous Plaît">RSVP</abbr> on the meetup page</a>,
     where you will also find exact details about this meetup's location.</p>
-  <p>See you there!</p> -->
-  <h1>To Be Announced</h1>
-  <p>There's no scheduled meetup at the moment, but our tentative date is <strong>17 October 2018</strong>.</p>
+  <p>See you there!</p>
+  <!-- <h1>To Be Announced</h1>
+  <p>There's no scheduled meetup at the moment, but our tentative date is <strong>17 October 2019</strong>.</p>
   <p>Make sure you've registered an account with <a href="http://www.meetup.com/">meetup.com</a>
     and joined <a href="http://www.meetup.com/bucharestfp/">our group</a> there, as that is the
     primary channel for announcing new meetups.</p>
   <p>In addition, you may want to follow our <a href="https://twitter.com/bucharestfp">Twitter account</a>.</p>
-  <p>See you soon!</p>
+  <p>See you soon!</p> -->
 </div>
 
 <div class="clear-fix"></div>
