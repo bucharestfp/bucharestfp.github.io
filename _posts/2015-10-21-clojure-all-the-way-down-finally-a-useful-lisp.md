@@ -39,7 +39,7 @@ edition: "#016"
     </div>
     <div class="right">
       <div class="slides">
-        <script async class="speakerdeck-embed" data-id="d9b9f840984b4da49e70f442462aeafa" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="d9b9f840984b4da49e70f442462aeafa" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
       </div>
       <div class="recording">
         <iframe width="590" height="442" src="https://www.youtube.com/embed/do-_nQL6tJg" frameborder="0" allowfullscreen></iframe>

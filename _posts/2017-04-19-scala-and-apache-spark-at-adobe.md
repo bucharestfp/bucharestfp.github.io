@@ -33,7 +33,7 @@ edition: "#026"
     </div>
     <div class="right">
       <div class="slides">
-        <script async class="speakerdeck-embed" data-id="c2e9204f2f624affae5788543917317b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="c2e9204f2f624affae5788543917317b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
       </div>
     </div>
   </div>
